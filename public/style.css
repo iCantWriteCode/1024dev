@@ -1,0 +1,30 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    background: black;
+    color: white;
+}
+.full-page-wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 5rem;
+    margin: 0 0 1rem 0
+}
+h2{
+    font-size: 2rem;
+    margin: 0 0 1rem 0
+}
+/* h3{
+    font-size:2rem;
+    margin: 0 0 1rem 0
+} */
+img {
+    max-width: 423px;
+    height: auto;
+    margin-top: 1rem;
+}
